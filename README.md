@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá! Eu sou a Mariana 👋
 
 <!--
 **marianacarrasco-gif/marianacarrasco-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> **Public Policy Professional | Social Impact & Python Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connecting **Public Policy**, **International Relations** and **Data Technology** to build data-informed solutions and social impact initiatives.
+
+---
+
+### 🌐 About Me
+
+I am an **Educational & Social Programs Specialist** with an academic background in **International Relations** and **Public Policy** (UFABC). Currently, I am expanding my skills into **Software Systems & Data Science**, leveraging Python and SQL to analyze social data, automate processes, and support public sector innovation.
+
+- 🎓 **Education:** B.A. in International Relations & Public Policy (UFABC)
+- 📊 **Core Focus:** Social Program Design, Data Analysis, and Public Policy Evaluation
+- 💻 **Tech Interests:** Python, Relational Databases and Data Manipulation
+- 📍 **Location:** São Paulo, Brazil
