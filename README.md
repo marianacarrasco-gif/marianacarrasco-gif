@@ -17,5 +17,5 @@ I am an **Educational & Social Programs Specialist** with an academic background
 - 📍 **Location:** São Paulo, Brazil
 
 ### 📬 How to Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariana-carrasco/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariana-carrasco/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:marianacarrascodemoura@gmail.com) 
