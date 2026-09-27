@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Mariana 👋
 
-<!--
+
 **marianacarrasco-gif/marianacarrasco-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 > **Public Policy Professional | Social Impact & Python Enthusiast**
