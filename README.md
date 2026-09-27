@@ -3,7 +3,7 @@
 
 > **Public Policy Professional | Social Impact & Python Enthusiast**
 
-Connecting **Public Policy**, **International Relations** and **Data Technology** to build data-informed solutions and social impact initiatives.
+Connecting **Public Policy**, **International Relations** and **Data Analytics** to build data-informed solutions and social impact initiatives.
 
 ---
 
